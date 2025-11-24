@@ -1,0 +1,481 @@
+[
+  {
+    "id": "1763970296089-3bd36h",
+    "timestamp": "2025-11-24T00:00:00Z",
+    "userId": "dev-user",
+    "event": "visit_start",
+    "domain": "testbet.com",
+    "url": "https://testbet.com/path"
+  },
+  {
+    "id": "1763970588063-706zu6",
+    "timestamp": "2025-11-24T10:50:00Z",
+    "userId": "dev-user",
+    "event": "visit_start",
+    "domain": "examplebet.local",
+    "url": "https://examplebet.local/home"
+  },
+  {
+    "id": "1763973192337-a3kk40",
+    "timestamp": "2025-11-24T08:33:12.302Z",
+    "event": "visit_start",
+    "domain": "www.google.com",
+    "url": "https://www.google.com/search?q=betika&oq=betika&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyCggEEAAYsQMYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEAAYgwEYsQMYgAQyBggHEAUYQNIBCDQyMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "sessionId": "micw3dss-gcnv"
+  },
+  {
+    "id": "1763973192744-vwwvp4",
+    "timestamp": "2025-11-24T08:33:12.720Z",
+    "event": "visit_end",
+    "domain": "www.google.com",
+    "url": "https://www.google.com/search?q=betika&oq=betika&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyCggEEAAYsQMYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEAAYgwEYsQMYgAQyBggHEAUYQNIBCDQyMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "sessionId": "micw3dss-gcnv",
+    "totalSeconds": 0
+  },
+  {
+    "id": "1763973195386-641nrb",
+    "timestamp": "2025-11-24T08:33:15.378Z",
+    "event": "visit_start",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop"
+  },
+  {
+    "id": "1763973202516-iqcgdc",
+    "timestamp": "2025-11-24T08:33:22.461Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973206064-9oced9",
+    "timestamp": "2025-11-24T08:33:25.948Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973210101-s0078h",
+    "timestamp": "2025-11-24T08:33:30.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973215099-950yi0",
+    "timestamp": "2025-11-24T08:33:35.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973220107-10g2kp",
+    "timestamp": "2025-11-24T08:33:40.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973225099-s1jk6f",
+    "timestamp": "2025-11-24T08:33:45.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973230119-6a0srn",
+    "timestamp": "2025-11-24T08:33:50.097Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973235356-cq5tn9",
+    "timestamp": "2025-11-24T08:33:55.350Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973240373-ztnzuk",
+    "timestamp": "2025-11-24T08:34:00.357Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973245380-89ys2i",
+    "timestamp": "2025-11-24T08:34:05.369Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973250369-g6bvju",
+    "timestamp": "2025-11-24T08:34:10.359Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973255386-3alf0z",
+    "timestamp": "2025-11-24T08:34:15.361Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973260381-r75gs6",
+    "timestamp": "2025-11-24T08:34:20.370Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973265358-6shbjm",
+    "timestamp": "2025-11-24T08:34:25.351Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973270357-2mijqe",
+    "timestamp": "2025-11-24T08:34:30.351Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973275377-yq97as",
+    "timestamp": "2025-11-24T08:34:35.361Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973280363-16xmji",
+    "timestamp": "2025-11-24T08:34:40.357Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973285379-3087dt",
+    "timestamp": "2025-11-24T08:34:45.363Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973290356-nayfgx",
+    "timestamp": "2025-11-24T08:34:50.353Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973313482-23smqn",
+    "timestamp": "2025-11-24T08:35:13.437Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973326271-ea37f4",
+    "timestamp": "2025-11-24T08:35:26.271Z",
+    "userId": "me",
+    "event": "visit_start",
+    "domain": "testbet.com",
+    "url": "https://testbet.com/"
+  },
+  {
+    "id": "1763973349806-8ardki",
+    "timestamp": "2025-11-24T08:35:49.787Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973350099-266qco",
+    "timestamp": "2025-11-24T08:35:50.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973355105-izpx5i",
+    "timestamp": "2025-11-24T08:35:55.096Z",
+    "event": "time_update",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "seconds": 5
+  },
+  {
+    "id": "1763973356242-bt07tc",
+    "timestamp": "2025-11-24T08:35:56.212Z",
+    "event": "visit_end",
+    "domain": "www.betika.com",
+    "url": "https://www.betika.com/en-ke/",
+    "sessionId": "micw3gbb-ndop",
+    "totalSeconds": 115
+  },
+  {
+    "id": "1763973357465-xvbsjx",
+    "timestamp": "2025-11-24T08:35:57.452Z",
+    "event": "visit_start",
+    "domain": "www.google.com",
+    "url": "https://www.google.com/search?q=kessbet&oq=kesb&gs_lcrp=EgZjaHJvbWUqEQgBEAAYChgLGIMBGLEDGIAEMgYIABBFGDkyEQgBEAAYChgLGIMBGLEDGIAEMgcIAhAAGIAEMg4IAxAAGAoYCxixAxiABDIHCAQQABiABDILCAUQABgKGAsYgAQyBwgGEAAYgAQyBggHEAUYQNIBCDMzNTZqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8",
+    "sessionId": "micw6xkf-j14l"
+  },
+  {
+    "id": "1763973358722-d5a4t2",
+    "timestamp": "2025-11-24T08:35:58.664Z",
+    "event": "visit_end",
+    "domain": "www.google.com",
+    "url": "https://www.google.com/search?q=kessbet&oq=kesb&gs_lcrp=EgZjaHJvbWUqEQgBEAAYChgLGIMBGLEDGIAEMgYIABBFGDkyEQgBEAAYChgLGIMBGLEDGIAEMgcIAhAAGIAEMg4IAxAAGAoYCxixAxiABDIHCAQQABiABDILCAUQABgKGAsYgAQyBwgGEAAYgAQyBggHEAUYQNIBCDMzNTZqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8",
+    "sessionId": "micw6xkf-j14l",
+    "totalSeconds": 0
+  },
+  {
+    "id": "1763973359821-7ea8ye",
+    "timestamp": "2025-11-24T08:35:59.785Z",
+    "event": "visit_start",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw"
+  },
+  {
+    "id": "1763973365396-xygu8g",
+    "timestamp": "2025-11-24T08:36:05.362Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973370359-ywsqcf",
+    "timestamp": "2025-11-24T08:36:10.351Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973375367-fgb4uo",
+    "timestamp": "2025-11-24T08:36:15.350Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973380348-7o9u5w",
+    "timestamp": "2025-11-24T08:36:20.344Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973385368-xpxpsb",
+    "timestamp": "2025-11-24T08:36:25.348Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973390347-7c1uyg",
+    "timestamp": "2025-11-24T08:36:30.344Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973395372-0zmnni",
+    "timestamp": "2025-11-24T08:36:35.347Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973400348-gqv42r",
+    "timestamp": "2025-11-24T08:36:40.344Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973405368-4nmcog",
+    "timestamp": "2025-11-24T08:36:45.347Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973410349-oov6oc",
+    "timestamp": "2025-11-24T08:36:50.345Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973415349-h5cf6m",
+    "timestamp": "2025-11-24T08:36:55.344Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973420355-m8417b",
+    "timestamp": "2025-11-24T08:37:00.345Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973433488-tuq4sp",
+    "timestamp": "2025-11-24T08:37:13.435Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973493512-fih4rn",
+    "timestamp": "2025-11-24T08:38:13.462Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973553489-xbhzlz",
+    "timestamp": "2025-11-24T08:39:13.406Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973613528-dmvjwk",
+    "timestamp": "2025-11-24T08:40:13.419Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973673488-vncaaj",
+    "timestamp": "2025-11-24T08:41:13.377Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973733494-9fv04x",
+    "timestamp": "2025-11-24T08:42:13.415Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973793474-9qw6ai",
+    "timestamp": "2025-11-24T08:43:13.374Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973853458-knq5n4",
+    "timestamp": "2025-11-24T08:44:13.390Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  },
+  {
+    "id": "1763973913408-pxfsbj",
+    "timestamp": "2025-11-24T08:45:13.359Z",
+    "event": "time_update",
+    "domain": "www.kessbet.com",
+    "url": "https://www.kessbet.com/pc/",
+    "sessionId": "micw6zcz-pkbw",
+    "seconds": 5
+  }
+]

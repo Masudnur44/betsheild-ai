@@ -9,6 +9,7 @@ import { alertsRouter } from "./routes/alerts.js";
 import { achievementsRouter } from "./routes/achievements.js";
 import { reportsRouter } from "./routes/reports.js";
 import { settingsRouter } from "./routes/settings.js";
+import { extensionRouter } from "./routes/extension.js";
 
 // Load environment variables
 dotenv.config();
@@ -26,6 +27,8 @@ const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:5173";
     origin: (origin, callback) => {
       // allow non-browser requests (curl, Postman, server-to-server)
       if (!origin) return callback(null, true);
+      // allow browser extension origins (chrome/moz extension schemes)
+      if (typeof origin === "string" && (origin.startsWith("chrome-extension://") || origin.startsWith("moz-extension://"))) return callback(null, true);
       if (allowedOrigins.includes("*") || allowedOrigins.includes(origin)) return callback(null, true);
       console.warn(`Blocked CORS origin: ${origin}`);
       return callback(new Error("CORS origin not allowed"));
@@ -52,6 +55,7 @@ app.use("/api/alerts", alertsRouter);
 app.use("/api/achievements", achievementsRouter);
 app.use("/api/reports", reportsRouter);
 app.use("/api/settings", settingsRouter);
+app.use("/api/extension", extensionRouter);
 
 // 404 handler
 app.use((req, res) => {

@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "BetShield Companion",
+  "version": "0.1.0",
+  "description": "Detects visits to gambling sites, logs usage and provides self-regulation tools.",
+  "permissions": ["storage", "tabs", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "BetShield Companion"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
